@@ -1,7 +1,7 @@
 {
 	"groups":[
 	{
-		"keys":"bg_jpg,page01_jpg,page02_jpg,slide_jpg,hello_jpg,egret_icon_png,description_json",
+		"keys":"bg_jpg,page01_jpg,page02_jpg,slide_jpg,hello_jpg,egret_icon_png,nm_png,description_json",
 		"name":"preload"
 	}],
 	"resources":[
@@ -34,6 +34,11 @@
 		"name":"egret_icon_png",
 		"type":"image",
 		"url":"assets/egret_icon.png"
+	},
+	{
+		"name":"nm_png",
+		"type":"image",
+		"url":"assets/nm.png"
 	},
 	{
 		"name":"description_json",
